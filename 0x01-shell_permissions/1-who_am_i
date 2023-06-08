@@ -1,0 +1,2 @@
+#!/bin/bash
+current_user=$(whoami)
